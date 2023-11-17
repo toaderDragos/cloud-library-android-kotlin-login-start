@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "536505787753",
+    "project_id": "a-login-tutorial-app",
+    "storage_bucket": "a-login-tutorial-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536505787753:android:803bb9bdad81f7e8ac49f8",
+        "android_client_info": {
+          "package_name": "com.example.android.firebaseui_login_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536505787753-gagmqf8g99qnh0imq94c44eg94m8bmk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5RP4BarW511B1oO6yFamhIh49qEFtEPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536505787753-gagmqf8g99qnh0imq94c44eg94m8bmk9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
